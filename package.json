@@ -1,0 +1,27 @@
+{
+    "name": "wood-duck",
+    "displayName": "Wood Duck",
+    "description": "A nice theme that's not too rough on the eyes, kinda reminds me of my favorite duck.",
+    "version": "0.0.1",
+    "publisher": "Mashpoe",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mashpoe/vscode-wood-duck-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wood Duck",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wood Duck-color-theme.json"
+            }
+        ]
+    }
+}
