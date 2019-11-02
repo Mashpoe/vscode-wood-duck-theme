@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.0.3
+
+Added unique color for invalid tokens
+
 ### 0.0.2
 
 Color fix
