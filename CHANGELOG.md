@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.0.4
+
+Updated background for notifications
+
 ### 0.0.3
 
 Added unique color for invalid tokens

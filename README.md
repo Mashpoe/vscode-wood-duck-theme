@@ -2,6 +2,8 @@
 
 A nice theme that's not too rough on the eyes, kinda reminds me of my favorite duck.
 
+It's also proven to be helpful for users with protanopia, AKA red-green colorblindness!
+
 ![screenshot 1](images/screenshot1.png)
 
 ![screenshot 2](images/screenshot2.png)

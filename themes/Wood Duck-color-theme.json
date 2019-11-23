@@ -23,6 +23,7 @@
 		"list.hoverBackground": "#1b0b0a",
 		"button.foreground": "#1b0b0a",
 		"button.background": "#c35900",
+		"notifications.background": "#1b0b0a",
 	},
 	"tokenColors": [
 		{
