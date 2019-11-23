@@ -1,8 +1,8 @@
 {
     "name": "wood-duck",
     "displayName": "Wood Duck",
-    "description": "A nice theme that's not too rough on the eyes, kinda reminds me of my favorite duck.",
-    "version": "0.0.4",
+    "description": "A nice theme that's not too rough on the eyes, kinda reminds me of my favorite duck. It can also help with some color blindness!",
+    "version": "0.0.5",
     "publisher": "Mashpoe",
     "icon": "images/icon.png",
     "repository": {

@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.0.5
+
+Updated various colors
+
 ### 0.0.4
 
 Updated background for notifications
